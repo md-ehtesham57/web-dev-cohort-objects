@@ -8,3 +8,6 @@ const laptop = {
   origin: "China"
 }
 
+laptop.health = "Moderate"
+
+console.log(laptop.health)
