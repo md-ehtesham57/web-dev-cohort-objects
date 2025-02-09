@@ -4,3 +4,5 @@ const user = {
   email: "mdehtesham313@gmail.com",
   pass: 12345678,
 }
+
+console.log(user["age"]);
